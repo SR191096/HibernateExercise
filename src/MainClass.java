@@ -10,15 +10,7 @@ import java.util.List;
 
 public class MainClass {
     public static void main(String[] args) {
-/*
 
-        List<Author> author = new ArrayList<>();
-
-        author.add(new Author("Nikhil","Sharma",28,"12-07-1988"));
-        author.add(new Author("Nayana","Goel",26,"10-03-1990"));
-        author.add(new Author("Shivangi","Gupta",24,"15-10-1992"));
-        author.add(new Author("Shyam","Agarwal",19,"18-11-1997"));
-*/
 
 Author author = new Author();
 Book book = new Book();

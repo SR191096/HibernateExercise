@@ -2,9 +2,6 @@ import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by yashi on 05-07-2017.
- */
 
 @Entity
 public class Book {

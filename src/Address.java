@@ -1,8 +1,5 @@
 import javax.persistence.Embeddable;
 
-/**
- * Created by yashi on 05-07-2017.
- */
 
 @Embeddable
 public class Address {
